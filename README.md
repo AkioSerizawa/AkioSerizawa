@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/AkioSerizawa">
-  <img height="160em" border-radius= 35px src="https://github-readme-stats.vercel.app/api?username=AkioSerizawa&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkioSerizawa&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AkioSerizawa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=20"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkioSerizawa&layout=compact&langs_count=7&theme=tokyonight&border_radius=20"/>
 </div>
   
 ## Sobre mim📖
