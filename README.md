@@ -1,4 +1,4 @@
-## Olá! Eu sou Akio Serizawa👨‍💻💻
+<h1 align='center'>Olá!👋🏻<b>Eu sou Akio Serizawa👨‍💻💻</b>🧐</h1>
 
 <div align="center">
   <a href="https://github.com/AkioSerizawa">
