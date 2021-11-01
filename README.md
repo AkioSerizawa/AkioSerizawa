@@ -8,7 +8,7 @@
   
 ## Sobre mim📖
 <p> - 👨‍💻 Suporte ao Cliente na SUM / Assistencia Tecnica </p>
-<p> - 👨‍🎓 Estudante de Ciência da computação, atualmente estou cursando o 2° semestre. </p>
+<p> - 👨‍🎓 Estudante de Ciência da Computação, atualmente estou cursando o 2° semestre. </p>
 <p> - 🎯 Interesse: Front-End e Inteligencia Artificial . </p>
   
 ## Tecnologias que eu uso no meu dia✔️
