@@ -7,7 +7,7 @@
 </div>
   
 ## Sobre mim📖
-<p> - 👨‍💻 Suporte ao Cliente na SUM / DBA / Assistencia Tecnica </p>
+<p> - 👨‍💻 Suporte ao Cliente na SUM / Analista de Banco de Dados </p>
 <p> - 👨‍🎓 Estudante de Ciência da Computação, atualmente estou cursando o 2° semestre. </p>
 <p> - 🎯 Interesse: Front-End e Inteligencia Artificial . </p>
   
