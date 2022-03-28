@@ -8,8 +8,8 @@
   
 ## Sobre mim📖
 <p> - 👨‍💻 Suporte ao Cliente na SUM / Analista de Banco de Dados </p>
-<p> - 👨‍🎓 Estudante de Ciência da Computação, atualmente estou cursando o 2° semestre. </p>
-<p> - 🎯 Interesse: Front-End e Inteligencia Artificial . </p>
+<p> - 👨‍🎓 Estudante de Ciência da Computação, atualmente estou cursando o 5° semestre. </p>
+<p> - 🎯 Interesse: Back-End e Inteligencia Artificial . </p>
   
 ## Minhas Skills✔️
  <div style="display: inline_block;">
