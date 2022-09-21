@@ -7,8 +7,8 @@
 </div>
   
 ## Sobre mim📖
-<p> - 👨‍💻 Suporte ao Cliente na SUM / Analista de Banco de Dados </p>
-<p> - 👨‍🎓 Estudante de Ciência da Computação, atualmente estou cursando o 5° semestre. </p>
+<p> - 👨‍💻 Dev Junior / Analista de Banco de Dados </p>
+<p> - 👨‍🎓 Estudante de Ciência da Computação, atualmente estou cursando o 6° periodo. </p>
 <p> - 🎯 Interesse: Back-End e Inteligencia Artificial . </p>
   
 ## Minhas Skills✔️
@@ -17,11 +17,12 @@
     <kbd>Conhecimento em:</kbd>
     <br />
     <br />
-      <img align="center" title="HTML5" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-      <img align="center"  title="CSS3" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-      <img align="center"  title="Javascript" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-      <img align="center" alt="Akio-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-      <img align="center" alt="SQL" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+     <img align="center" title="C#" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+     <img align="center"  title="Javascript" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+     <img align="center" alt="Akio-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
+     <img align="center" alt="Node-Js" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=40&color=currentColor" />
+     <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+     <img align="center" alt="Mongo" height="30" width="40" src="https://icongr.am/devicon/mongodb-original.svg?size=40&color=currentColor" />
     <br />
     <br /> 
   </kbd>
@@ -30,8 +31,9 @@
     <kbd>Estudando:</kbd>
     <br />
     <br />
-      <img align="center" title="C#" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
       <img align="center" title="Python" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> 
+      <img align="center" title="Git" alt="Git" height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=40&color=currentColor">
+      <img align="center" title="Docker" alt="Docker" height="30" width="40" src="https://icongr.am/devicon/docker-original-wordmark.svg?size=40&color=currentColor">
     <br />
     <br />
   </kbd>
